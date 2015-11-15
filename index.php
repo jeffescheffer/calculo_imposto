@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Cálculo de Impostoo</title>
+        <title>Cálculo de Imposto</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="libs/css/bootstrap.css" rel="stylesheet" type="text/css"/>
